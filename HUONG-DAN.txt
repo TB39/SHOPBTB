@@ -1,0 +1,17 @@
+BTB SHOWROOM - HUONG DAN CHAY
+
+1. Giai nen ZIP.
+2. Mo VS Code > File > Open Folder > chon thu muc BTB-SHOWROOM-39-MODELS.
+3. Mo Terminal > New Terminal.
+4. Chay: npm install
+5. Chay: npm run dev
+6. Mo dia chi Vite hien thi (thuong la http://localhost:5173).
+
+Kiem tra build: npm run build
+
+Luu y:
+- Anh xe la anh tham khao tu cac trang ben ngoai, can Internet de tai.
+- Anh khong dam bao trung khop 100% nam san xuat/phien ban tai showroom.
+- Gia xe de "Lien he" de tranh hien thi gia cu hoac chua xac minh.
+- Form tu van hien chua ket noi may chu.
+- File ZIP khong co .git.
