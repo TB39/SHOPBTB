@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 .DS_Store
 *.local
 *.tsbuildinfo
+=======
+node_modules
+dist
+.DS_Store
+*.local
+>>>>>>> 292513ffb2a0c138b65d7faa2e17b03b6c199c7c
